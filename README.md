@@ -18,4 +18,4 @@ Bienvenido a Galactic Assault, un juego de acción espacial donde debes enfrenta
 - Pygame (instalable con `pip install pygame`)
 
 ## Contribuciones
-¡Contribuciones son bienvenidas! Si tienes sugerencias o mejoras, no dudes contactarme.
+¡Las contribuciones son bienvenidas! Si tienes sugerencias o mejoras, no dudes contactarme =).
