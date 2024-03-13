@@ -7,7 +7,7 @@ from app.game_objects import Jugador, Enemigo, Proyectil
 from app.utils import ingresar_nombre, mostrar_resultados
 
 # Conexión a la base de datos SQLite
-conexion = sqlite3.connect("partidas.db")
+conexion = sqlite3.connect("data/partidas.db")
 cursor = conexion.cursor()
 
 # Crear la tabla si no existe

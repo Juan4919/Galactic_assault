@@ -46,7 +46,7 @@ def ingresar_nombre(pantalla, reloj, FPS, ANCHO, ALTO):
 
 # Función para mostrar mejores resultados   
 def mostrar_resultados(pantalla, reloj, FPS, ANCHO, ALTO):
-    conexion = sqlite3.connect("partidas.db")
+    conexion = sqlite3.connect("data/partidas.db")
     cursor = conexion.cursor()
 
     # Obtener resultados de la base de datos
